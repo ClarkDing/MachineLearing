@@ -1,4 +1,25 @@
-Date:
-Author:
-Checker:
-Descript:
+head: 
+<type>
+#<checker>
+#<scope>
+
+body: 
+# <content>
+
+# -type: 本次提交类型
+# feat: 新功能
+# fix: bug fix
+# docs: 文档
+# refactor: 重构
+# test: 测试代码
+# chore：构建代码、插件修改
+#
+# -scope: 修改范围
+# global: 全局 
+# model: 数据层
+# view: 视图层
+# controll: 控制层
+#
+# -chcker: 审核人 
+#
+# -body：详细描述
